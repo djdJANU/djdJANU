@@ -23,7 +23,6 @@
 </div> 
 
 
-<hr>
 
 <h2 align="center"> Languages </h2>
 <br/>
@@ -43,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,notion,figma,firebase"/><br>
 </div>
 
-<hr/>
+
 
 <br>
 <div align="center">
