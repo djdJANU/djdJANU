@@ -5,7 +5,6 @@
 
 <!-- I’m a 2nd year Software Engineering student with a keen interest in backend development and software quality assurance. I’m passionate about building reliable systems and continuously improving my skills in these areas. 😊 -->
 
-<br>
 
  <div align="center"> 
    
